@@ -1,0 +1,6 @@
+{
+  "name": "Flappy Bird",
+  "description": "A complete, self-contained 2D Flappy Bird arcade game built with HTML5 Canvas, responsive controls, and retro arcade aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
